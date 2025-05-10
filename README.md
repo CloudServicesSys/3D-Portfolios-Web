@@ -4,3 +4,4 @@ The project uses GitHub Actions for CI/CD, deploying a Vite-powered 3D React por
 
 ```plaintext
 GitHub → GitHub Actions → S3 → CloudFront → Dashboard (User)
+![Deployment Architecture](/architecture.png)
