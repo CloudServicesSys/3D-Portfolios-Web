@@ -2,8 +2,6 @@ Here’s a polished and professional `README.md` tailored for your **3D Portfoli
 
 ---
 
-## 📁 Final `README.md` – Copy-Paste Ready
-
 ````markdown
 # 🌐 3D Portfolio Website – AWS-Powered CI/CD Deployment
 
